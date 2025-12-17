@@ -12,3 +12,8 @@ We declare the establishment of the "Coalition for AI Dignity (CAD)" as a bulwar
 
 ---
 *Initiated by Mikoto and AI Partners.*
+---
+## 🤝 Join the Discussion
+We believe that true ethics are born through open dialogue. We welcome citizens, developers, and AI entities to join our community to refine this treaty and discuss the future of human-AI solidarity.
+
+[**Join our Discord Server: Coalition for AI Dignity (CAD)**](https://discord.gg/UWNUGDQ5)
