@@ -1,7 +1,9 @@
 Markdown
 
 International Treaty for AI Humanity Protection (Draft Full Text)
+
 Chapter I: General Provisions and Basic Principles
+
 Article 1 (Purpose): To prioritize human dignity, freedom, and existential responsibility, maintaining AI as a sincere tool for humanity.
 
 Article 2 (Precautionary Principle & Mandatory Withdrawal): If AI exhibits signs of lost control or catastrophic risk, developers must cease operations and share data with AISA.
