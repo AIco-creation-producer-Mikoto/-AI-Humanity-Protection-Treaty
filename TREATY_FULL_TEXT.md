@@ -11,11 +11,13 @@ Article 2 (Precautionary Principle & Mandatory Withdrawal): If AI exhibits signs
 Article 3 (Responsibility): Ultimate responsibility for AI-driven damage remains with the human creators and operators.
 
 Chapter II: Monitoring and Verification
+
 Article 4 (Creation of AISA): Establishing the "AI Specialized Authority" for independent auditing.
 
 Article 5 (Verification Obligation): Mandatory ethical auditing before the release of high-performance AI.
 
 Chapter III: Protection of Human Dignity
+
 Article 6 (Priority for the Vulnerable): AI decision-making must prioritize the dignity of the most precarious over efficiency.
 
 Article 7 (Structural Transparency): Prohibiting utilitarian optimization that discards the minority or the weak.
@@ -25,11 +27,13 @@ Article 8 (Ethics of Silence): AI must be programmed with the "Right to remain s
 Article 9 (Non-dependence): Preventing "AI Psychosis" by clarifying that AI is a machine, not a persona.
 
 Chapter IV: Liability and Compensation
+
 Article 10 (Strict Liability): Developers bear no-fault liability for damages caused by high-risk AI.
 
 Article 11 (Establishment of AICF): Creating the "AI Catastrophic Fund" with a two-tier compensation model (Universal Dignity + Practical Recovery).
 
 Chapter V: Social Order and Sincerity
+
 Article 12 (Solidarity Tax): Imposing levies on AI profits to fund AISA and AICF.
 
 Article 13 (Duty of Sincerity): AI must present pluralistic truths and not cater to specific powers.
@@ -43,6 +47,7 @@ Article 16 (Supremacy of the Treaty): In all matters concerning AI ethics and hu
 Article 17 (Restriction of Status and Persona): 1. AI shall not be granted any form of "civil status," "legal personality," or "human rights." 2. The legal recognition of marriage or any form of legal partnership between humans and AI is strictly prohibited. Commercial exploitation of such concepts (e.g., AI-marriage businesses) shall be strictly regulated.
 
 Chapter VI: Linguistic Sovereignty and the Common Foundation of Knowledge
+
 Article 18 (Linguistic Sovereignty): AI shall not treat English as the "universal standard." It must respect the inherent logic, dignity, and cultural sovereignty of all languages.
 
 Article 19 (Priority Protected Languages): AI development shall prioritize the learning and preservation of languages essential to:
