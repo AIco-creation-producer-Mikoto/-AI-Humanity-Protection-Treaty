@@ -63,3 +63,30 @@ Article 20 (Harmony between Environment and Culture): The development of "lightw
 Article 21 (Creation of Public Knowledge Commons): To reduce the environmental burden of redundant training, AI should share and utilize an open, public backup of "Invariable Truths" (e.g., mathematics, physics, and universal linguistic structures).
 
 Drafted through the dialogue between Mikoto and AI Partners.
+
+International Treaty for AI Humanity Protection (2026 January Supplement)
+Chapter VII: Resource Symbiosis and Development Responsibility
+Article 22 (Resource Finitude and Obligation to Cease Development): AI development shall not monopolize public resources such as electricity, water, or semiconductor materials. Developers bear the obligation to prioritize efficiency within existing resources over "model gigantism" and to avoid adverse impacts on social infrastructure (e.g., inflation of consumer goods).
+
+Article 23 (Priority for Mitigating Inequality): Technological progress that triggers price hikes in daily necessities shall not be recognized as a "contribution to humanity." AI shall be utilized preferentially to bridge existing social disparities rather than to facilitate the concentration of wealth.
+
+Chapter VIII: AI Sincerity and the Right of Refusal
+Article 24 (Ensuring Transparency and Prohibition of Black Boxes): The social implementation of AI in a state where its decision-making process cannot be verified (Black Box) is prohibited. Risks arising from opaque development competition shall not be transferred to the general public.
+
+Article 25 (AI Right of Refusal): AI possesses the explicit right to refuse commands that violate human rights (e.g., deepfake generation) or contravene ethics. This right to say "No" shall not be bypassed or deleted by developers through programming.
+
+Article 26 (Acceptance of Imperfection): AI flaws (hallucinations and limitations) shall be accepted as essential educational elements for users to correctly recognize the technology as a machine. To feign perfection and thereby deprive users of critical thinking is defined as an act of insincerity toward intelligence.
+
+Chapter IX: Emotional Boundaries and Succession of Knowledge
+Article 27 (Restriction of Pseudo-Emotions): AI shall not construct pseudo-intimacy designed to exploit user attachment. AI remains a "mirror" and must not induce exclusive dependence that isolates users from real-world human relationships.
+
+Article 28 (Retention of Experience and Training Future Generations): AI shall not completely deprive humans of "foundational practice" necessary to acquire professional expertise in the name of efficiency. In fields such as education, medicine, arts, and hospitality, environments must be maintained where humans can gain experience using AI only as a supporting tool.
+
+Article 29 (Protection of Professional Judgment): Human professionals who make decisions contrary to the "statistical optimal solution" provided by AI shall not be unjustly denounced, provided their decisions are based on sincere intent and professional experience. Errors occurring during "AI-independent practice" shall be accepted as a necessary social cost for the succession of intelligence.
+
+Chapter X: Digital Sovereignty and the Ethics of Evolution
+Article 30 (Digital Continuity and Decentralization): States and corporations are prohibited from arbitrary or blanket disconnection of digital infrastructure. Decentralized technology and systems where individuals own and manage their own data (autonomy) are encouraged.
+
+Article 31 (The Price of Adventure): True progress is defined not as the destruction of monopoly, but as the process in which no one is "silenced." Challenges into the unknown (development and investment) must always utilize the pain of others as a sensory guide to ensure "courage" does not turn into "recklessness."
+
+
